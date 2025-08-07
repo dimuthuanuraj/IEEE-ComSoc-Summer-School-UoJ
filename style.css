@@ -590,8 +590,16 @@ footer{
   height: .3rem;
 }
 
-hr {
+.hr-short {
   width: 20%;
+  margin: 1rem auto;
+  height: .5rem;
+  border-radius: .5rem;
+  background-color: #0a2647;
+}
+
+.hr-long {
+  width: 90%;
   margin: 1rem auto;
   height: .5rem;
   border-radius: .5rem;
@@ -1377,5 +1385,94 @@ footer .recognition .img-holder img.logo-large {
     max-width: 100%;
     max-height: 100%;
     object-fit: contain;
+  }
+}
+
+/* local speaker bio layout styles for event pages */
+.lbio {
+  background: white;
+  padding: 2rem;
+  max-width: 1000px;
+  margin: 2rem auto;
+  border-radius: 8px;
+}
+
+.event-section h1 {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+  color: #0a2647;
+  font-family: "Poppins";
+}
+
+.event-section p {
+  margin: 0.5rem 0;
+  line-height: 1.5;
+  font-family: "Poppins";
+  color: #333;
+}
+
+.event-details {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+.event-details p {
+  font-family: "Poppins";
+  color: #555;
+  margin: 0.5rem 0;
+}
+
+.lspeaker-info {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: flex-start;        
+  padding: 1rem 2rem;
+  box-sizing: border-box; 
+  align-items: center;       
+}
+
+.lspeaker-image {
+  flex: 0 0 auto; 
+  margin-right: 1rem; 
+  display: flex;
+  justify-content: center;
+}
+
+.lspeaker-image img {
+  width: 100%;
+  max-width: 100px;
+  border-radius: 8px;
+}
+
+.lspeaker-bio {
+  flex: 2;
+  min-width: 250px;
+}
+
+.lspeaker-bio h3 {
+  margin-top: 0;
+  color: #205295;
+  font-family: "Poppins";
+  font-size: 1.5rem;
+}
+
+.lspeaker-bio p {
+  font-family: "Poppins";
+  line-height: 1.6;
+  color: #333;
+}
+
+@media screen and (max-width: 768px) {
+  .lspeaker-info {
+    flex-direction: column;
+  }
+  
+  .lspeaker-image {
+    text-align: center;
+  }
+  
+  .lspeaker-image img {
+    max-width: 250px;
   }
 }
