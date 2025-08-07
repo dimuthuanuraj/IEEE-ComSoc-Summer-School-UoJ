@@ -542,76 +542,94 @@ const detailed = () => {
 <hr style="width:40%;height:.5rem;margin:2rem auto;margin-top:4rem"/>
 -->
    
-<h1>Detailed Programme <p style="font-size:1rem"></p></h1>
+    <h1>Detailed Programme <p style="font-size:1rem"></p></h1>
     <table class="mt-8" style="width: 100%">
       <tr>
         <td style="font-size:2rem;text-align:left;" colspan="2"><b>Day 1 : August 11, 2025 (Monday)</b></td>
       </tr>
-      <tr class="stripped">
-        <td>07:30 – 08:00</td>
-        <td><b>Registration</b></td>
-      </tr>
-      <tr>
-        <td>08:00 – 09:00</td>
-        <td>
-          <b>Inaugurations</b> <br />
-        </td>
-      </tr>
-      <tr class="stripped">
-        <td>09:00 – 10:30</td>
-        <td>
-          <b>Academic Talk & Workshop</b> <br />
-          Prof. Dileeka Dias
-        </td>
-      </tr>
-      <tr>
-        <td>10:30 – 10:45</td>
-        <td>Tea Break</td>
-      </tr>
-      <tr class="stripped">
-        <td>10:45 – 13:15</td>
-        <td>
-          <b>Industry Workshop</b> <br />
-          Air Force <br />
-          <i>Radar Communications</i>
-        </td>
-      </tr>
-      <tr>
-        <td>13:15 – 14:00</td>
-        <td>Lunch</td>
-      </tr>
-      <tr class="stripped">
-        <td>14:00 – 16:00</td>
-        <td>
-          <b>Industry Workshop</b> <br />
-          Air Force <br />
-          <i>Radar Communications</i>
-        </td>
-      </tr>
-      <tr>
-        <td>16:00 – 16:15</td>
-        <td>Tea Break</td>
-      </tr>
-      <tr class="stripped">
-        <td>16:15 – 17:15</td>
-        <td>
-          <b>Tech Talk</b> <br />
-          Prof. Tameer / Prof. VP / Prof. Trung
-        </td>
-      </tr>
-      <tr>
-        <td>17:15 – 19:15</td>
-        <td>
-          <b>Industry Workshop</b> <br />
-          Free Sat
-        </td>
-      </tr>
+      <tr class="stripped"><td>07:30 – 08:00</td><td>Registration</td></tr>
+      <tr><td>08:00 – 09:00</td><td>Inaugurations</td></tr>
+      <tr class="stripped"><td>09:00 – 10:30</td><td><b>Academic Talk & Workshop</b><br />Prof. Dileeka Dias</td></tr>
+      <tr><td>10:30 – 10:45</td><td>Tea Break</td></tr>
+      <tr class="stripped"><td>10:45 – 13:15</td><td><b>Industry Workshop</b><br />Air Force</td></tr>
+      <tr><td>13:15 – 14:00</td><td>Lunch</td></tr>
+      <tr class="stripped"><td>14:00 – 16:00</td><td><b>Industry Workshop</b><br />Air Force</td></tr>
+      <tr><td>16:00 – 16:15</td><td>Tea Break</td></tr>
+      <tr class="stripped"><td>16:15 – 17:15</td><td><b>Keynote Speech</b><br />Prof. Trung</td></tr>
+      <tr><td>17:15 – 19:15</td><td><b>Industry Workshop</b><br />Free Sat</td></tr>
     </table>
+
     <hr style="width:40%;height:.5rem;margin:2rem auto;margin-top:4rem"/>
-    <!-- Day 2 and Day 3 go here if unchanged -->
 
+    <table class="mt-8" style="width: 100%">
+      <tr><td style="font-size:2rem;text-align:left;" colspan="2"><b>Day 2 : August 12, 2025 (Tuesday)</b></td></tr>
+      <tr class="stripped"><td>08:00 – 08:30</td><td>Team Activity</td></tr>
+      <tr><td>08:30 – 09:30</td><td><b>Keynote Speech</b><br />Prof. Swdesh</td></tr>
+      <tr class="stripped"><td>09:30 – 10:30</td><td><b>Online Tech Talk</b><br />Dr. Dang</td></tr>
+      <tr><td>10:30 – 10:45</td><td>Tea Break</td></tr>
+      <tr class="stripped"><td>10:45 – 11:45</td><td><b>Keynote Speech</b><br />Prof. Tameer</td></tr>
+      <tr><td>11:45 – 12:30</td><td>Lunch</td></tr>
+      <tr class="stripped"><td>12:30 – 15:00</td><td><b>Industry Workshop</b><br />SLT</td></tr>
+      <tr><td>15:00 – 15:15</td><td>Tea Break</td></tr>
+      <tr class="stripped"><td>15:15 – 17:45</td><td><b>Industry Workshop</b><br />SLT</td></tr>
+      <tr><td>17:45 – 18:00</td><td>Team Activity</td></tr>
+      <tr class="stripped"><td>18:00 – 19:30</td><td><b>Keynote Speech - online</b><br />Prof. Ashutosh</td></tr>
+    </table>
 
-`;
+    <hr style="width:40%;height:.5rem;margin:2rem auto;margin-top:4rem"/>
+
+    <table class="mt-8" style="width: 100%">
+      <tr><td style="font-size:2rem;text-align:left;" colspan="2"><b>Day 3 : August 13, 2025 (Wednesday)</b></td></tr>
+      <tr class="stripped"><td>08:15 – 09:00</td><td>Inauguration Ceremony</td></tr>
+      <tr><td>09:00 – 10:00</td><td><b>Keynote Speech 01</b><br />Prof. Neeli</td></tr>
+      <tr class="stripped"><td>10:00 – 10:15</td><td>Tea Break</td></tr>
+      <tr><td>10:15 – 11:15</td><td><b>Keynote Speech 02</b><br />Prof. VP</td></tr>
+      <tr class="stripped"><td>11:15 – 12:15</td><td><b>Keynote Speech 03</b><br />Prof. Tameer</td></tr>
+      <tr><td>12:15 – 13:00</td><td>Lunch</td></tr>
+      <tr class="stripped"><td>13:00 – 13:20</td><td>Cultural Program</td></tr>
+      <tr><td>13:20 – 14:50</td><td><b>Panel Discussion</b><br />Valluvan Sir</td></tr>
+      <tr class="stripped"><td>14:50 – 15:05</td><td>Tea Break</td></tr>
+      <tr><td>15:05 – 15:25</td><td>Cultural Program</td></tr>
+      <tr class="stripped"><td>15:25 – 16:25</td><td><b>Academic Talk & Workshop</b><br />Dr. Dhushmantha</td></tr>
+      <tr><td>16:25 – 17:25</td><td><b>Keynote Speech 04</b><br />Prof. Swdes De</td></tr>
+      <tr class="stripped"><td>17:30 – 19:00</td><td>Explore the Jaffna Cultural and Environment</td></tr>
+      <tr><td>19:00 – 19:30</td><td></td></tr>
+      <tr class="stripped"><td>19:30 – 21:30</td><td>Dinner with Side Music (Cultural)</td></tr>
+      <tr><td>21:30</td><td>Leaving from Jaffna to FOE</td></tr>
+    </table>
+
+    <hr style="width:40%;height:.5rem;margin:2rem auto;margin-top:4rem"/>
+
+    <table class="mt-8" style="width: 100%">
+      <tr><td style="font-size:2rem;text-align:left;" colspan="2"><b>Day 4 : August 14, 2025 (Thursday)</b></td></tr>
+      <tr class="stripped"><td>08:00 – 09:00</td><td><b>Academic Talk & Workshop</b><br />Dr. Pasan</td></tr>
+      <tr><td>09:00 – 10:00</td><td><b>Tech Talk</b><br />Prof. Neeli</td></tr>
+      <tr class="stripped"><td>10:00 – 10:15</td><td>Tea Break</td></tr>
+      <tr><td>10:15 – 10:30</td><td>Team Activity</td></tr>
+      <tr class="stripped"><td>10:30 – 12:00</td><td><b>Academic Talk & Workshop</b><br />Dr. Kushan</td></tr>
+      <tr><td>12:00 – 12:30</td><td>Lunch</td></tr>
+      <tr class="stripped"><td>12:30 – 15:30</td><td><b>Industry Workshop</b><br />Zone 24x7</td></tr>
+      <tr><td>15:30 – 15:45</td><td>Tea Break</td></tr>
+      <tr class="stripped"><td>16:00 – 17:00</td><td><b>Tech Talk - online</b><br />Prof. Muriel</td></tr>
+      <tr><td>17:00 – 18:00</td><td><b>Tech Talk</b><br />Prof. Swdesh</td></tr>
+      <tr class="stripped"><td>18:00 – 19:00</td><td><b>Tech Talk - online</b><br />Prof. Ender</td></tr>
+    </table>
+
+    <hr style="width:40%;height:.5rem;margin:2rem auto;margin-top:4rem"/>
+
+    <table class="mt-8" style="width: 100%">
+      <tr><td style="font-size:2rem;text-align:left;" colspan="2"><b>Day 5 : August 15, 2025 (Friday)</b></td></tr>
+      <tr class="stripped"><td>08:00 – 09:00</td><td><b>Industry Tech Talk</b><br />Capital Maharaja Group</td></tr>
+      <tr><td>09:00 – 12:00</td><td><b>Industry Workshop</b><br />RSSL<br /><i>Tea will be served mid-program</i></td></tr>
+      <tr class="stripped"><td>12:00 – 12:30</td><td>Lunch</td></tr>
+      <tr><td>12:30 – 14:30</td><td><b>Industry Workshop</b><br />RSSL</td></tr>
+      <tr class="stripped"><td>14:30 – 16:00</td><td><b>Industry Workshop</b><br />ACCMIT</td></tr>
+      <tr><td>16:00 – 16:15</td><td>Tea Break</td></tr>
+      <tr class="stripped"><td>16:15 – 16:30</td><td>Team Activity</td></tr>
+      <tr><td>16:30 – 18:00</td><td><b>Industry Workshop</b><br />ACCMIT</td></tr>
+      <tr class="stripped"><td>18:00</td><td>Closing Remarks</td></tr>
+    </table>
+  `;
 };
 function initial(loadContent) {
   switch (loadContent) {
